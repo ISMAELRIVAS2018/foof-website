@@ -1,4 +1,4 @@
-# foof-website
+# food-website
 Css/Js/Html
 
 <img src="./images/Screenshot_20221031_195941.png">
